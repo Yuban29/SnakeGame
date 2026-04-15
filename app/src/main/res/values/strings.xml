@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SnakeGame</string>
+    <string name="score">Puntuación: </string>
+    <string name="game_over">¡Juego Terminado!</string>
+    <string name="tap_to_restart">Toca para reiniciar</string>
+</resources>
