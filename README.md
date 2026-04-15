@@ -4,6 +4,18 @@ Juego de la serpiente clásico desarrollado para Android con Java.
 
 ---
 
+## PANTALLAZOS
+
+![WhatsApp Image 2026-04-14 at 7 47 59 PM](https://github.com/user-attachments/assets/d0dbfdf9-60ae-4986-9ddc-7f6b3bc10608)
+
+
+![WhatsApp Image 2026-04-14 at 7 48 02 PM](https://github.com/user-attachments/assets/426322e6-7f82-4aac-8fcf-1dc1bc16049c)
+
+
+
+
+
+---
 ## 📁 Estructura del Proyecto
 
 ```
